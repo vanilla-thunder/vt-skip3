@@ -1,0 +1,24 @@
+{
+  "name": "vt-skip3",
+  "version": "0.0.1",
+  "description": "set shipping + payment method and skip 3rd checkout step",
+  "author": "Marat Bedoev",
+  "company": "Marat Bedoev",
+  "email": "m@marat.ws",
+  "url" : "https://github.com/vanilla-thunder/vt-skip3",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vanilla-thunder/vt-skip3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vanilla-thunder/vt-skip3/issues"
+  },
+  "keywords": [
+    "oxid",
+    "checkout"
+  ],
+  "dependencies": {
+    "replace": "*"
+  }
+}
